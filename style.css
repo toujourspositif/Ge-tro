@@ -2,8 +2,8 @@
 --bu:#1FB98F;--vu:#6B4CF5;--lu:#F2A41F;--cou:#F0502F}
 *{box-sizing:border-box;margin:0}
 html{scroll-behavior:smooth}
-body{font:17px/1.6 "Hanken Grotesk",system-ui,sans-serif;background:var(--bg);color:var(--ink)}
-h1,h2,h3,.logo{font-family:"Imperial Script","Hanken Grotesk",system-ui,sans-serif;line-height:1.02;letter-spacing:-.025em}
+body{font:17px/1.6 "Monoton",system-ui,sans-serif;background:var(--bg);color:var(--ink)}
+h1,h2,h3,.logo{font-family:"Monoton","Hanken Grotesk",system-ui,sans-serif;line-height:1.02;letter-spacing:-.025em}
 a{color:inherit}
 :focus-visible{outline:3px solid var(--c);outline-offset:3px}
 .wrap{max-width:1120px;margin:0 auto;padding:0 24px}
