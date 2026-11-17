@@ -4,7 +4,7 @@
 --bu:#1FB98F;--vu:#6B4CF5;--lu:#F2A41F;--cou:#F0502F}
 *{box-sizing:border-box;margin:0}
 html{scroll-behavior:smooth}
-body{font:17px/1.6 "Sekuya",system-ui,sans-serif;background:var(--bg);color:var(--ink)}
+body{font:17px/1.6 "",system-ui,sans-serif;background:var(--bg);color:var(--ink)}
 h1,h2,h3,.logo{font-family:"Sekuya",system-ui,sans-serif;line-height:1.02;letter-spacing:-.025em}
 a{color:inherit}
 :focus-visible{outline:3px solid var(--c);outline-offset:3px}
