@@ -53,3 +53,24 @@ footer .wrap{display:flex;flex-wrap:wrap;gap:12px 32px;justify-content:space-bet
 footer a{margin-right:16px}
 @media(max-width:700px){.row{grid-template-columns:1fr}}
 @media(prefers-reduced-motion:reduce){.wm .sfx span{animation:none}.wm .sfx span:first-child{opacity:1}.row{transition:none}}
+
+
+@media (max-width: 700px) {
+  .hero {
+    padding: 48px 20px 40px;
+  }
+
+  .hero .wm {
+    font-size: clamp(3.2rem, 12vw, 5.5rem);
+    line-height: 1;
+    overflow-wrap: anywhere;
+  }
+
+  .hero p.lead {
+    font-size: 1.15rem;
+    line-height: 1.5;
+    margin-top: 22px;
+    max-width: 100%;
+  }
+}
+
