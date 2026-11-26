@@ -17,7 +17,7 @@ nav a:not(.logo){text-decoration:none;font-size:.95rem;font-weight:500;padding:4
 nav a:not(.logo):hover,nav a[aria-current]{border-color:var(--c)}
 #cart{font-size:.9rem;background:var(--ink);color:#fff;border-radius:99px;padding:3px 12px}
 .hero{padding:72px 0 56px}
-.wm{font-weight:800;font-size:clamp(4rem,17vw,12.5rem);line-height:.9;letter-spacing:-.05em;display:flex;flex-wrap:wrap;align-items:baseline}
+.wm{font-weight:750;font-size:clamp(4rem,17vw,12.5rem);line-height:.9;letter-spacing:-.05em;display:flex;flex-wrap:wrap;align-items:baseline}
 .wm .sfx{display:inline-grid}
 .wm .sfx span{grid-area:1/1;opacity:0;animation:cyc 12.5s infinite}
 .wm .sfx span:nth-child(2){animation-delay:2.5s}.wm .sfx span:nth-child(3){animation-delay:5s}.wm .sfx span:nth-child(4){animation-delay:7.5s}.wm .sfx span:nth-child(5){animation-delay:10s}
